@@ -1,8 +1,8 @@
 h1 {
     font-size: ;
-    font-family: ;
+    font-family: 'Roboto', sans-serif ;
     padding: ;
-    margin: ;
+    margin: 25px 25px 25px 25px ;
     font-weight: ;
     text-decoration: ;
     color: ;
@@ -11,27 +11,28 @@ h1 {
 
 h2 {
     font-size: ;
-    font-family: ;
+    font-family: 'Roboto', sans-serif;
     padding: ;
-    margin: ;
+    margin: 25px 25px 25px 25px;
     font-weight: ;
     color: ;
     background-color: ;
 }
 
 p {
-    font-family: ;
+    font-family: 'Roboto', sans-serif ;
     font-size: ;
     padding: ;
-    margin: ;
+    margin: 10px 25px 0px 25px;
     color: ;
     background-color: ;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+    background-color: white ;
+    margin: 30px 0px 0px 25px;
+    height: 100px;
+    width: 100px;
 }
